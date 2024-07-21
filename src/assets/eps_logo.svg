@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Capa_1"
+   data-name="Capa 1"
+   viewBox="0 0 855.38364 855.38367"
+   version="1.1"
+   sodipodi:docname="eps_logo.svg"
+   width="855.38367"
+   height="855.38367"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.28365374"
+     inkscape:cx="1177.492"
+     inkscape:cy="430.10186"
+     inkscape:window-width="1910"
+     inkscape:window-height="2150"
+     inkscape:window-x="1925"
+     inkscape:window-y="5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18" />
+  <defs
+     id="defs11">
+    <style
+       id="style1">
+      .cls-1 {
+        fill: #5397cc;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #213e63;
+      }
+
+      .cls-3 {
+        fill: url(#Degradado_sin_nombre_3);
+      }
+
+      .cls-9 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-4 {
+        fill: #ffe357;
+      }
+
+      .cls-5 {
+        fill: url(#Degradado_sin_nombre_7);
+      }
+
+      .cls-6 {
+        fill: #101d2f;
+      }
+
+      .cls-7 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        fill: url(#Degradado_sin_nombre_2);
+      }
+    </style>
+    <radialGradient
+       id="Degradado_sin_nombre_7"
+       data-name="Degradado sin nombre 7"
+       cx="661.67999"
+       cy="1423.54"
+       fx="661.67999"
+       fy="1423.54"
+       r="603.19"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         id="stop1" />
+      <stop
+         offset=".15"
+         stop-color="#c6cdd7"
+         id="stop2" />
+      <stop
+         offset=".32"
+         stop-color="#8c9bae"
+         id="stop3" />
+      <stop
+         offset=".48"
+         stop-color="#5d728d"
+         id="stop4" />
+      <stop
+         offset=".63"
+         stop-color="#3c5676"
+         id="stop5" />
+      <stop
+         offset=".74"
+         stop-color="#284468"
+         id="stop6" />
+      <stop
+         offset=".82"
+         stop-color="#213e63"
+         id="stop7" />
+    </radialGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_3"
+       data-name="Degradado sin nombre 3"
+       x1="62.060001"
+       y1="2859.0901"
+       x2="34.540001"
+       y2="2819.1899"
+       gradientTransform="matrix(10,0,0,10,248.59,-26888.1)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fec708"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#ffe975"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       id="Degradado_sin_nombre_2"
+       data-name="Degradado sin nombre 2"
+       x1="75.480003"
+       y1="2872.98"
+       x2="115.39"
+       y2="2907.3201"
+       gradientTransform="matrix(10,0,0,10,-361.41,-27541.1)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#5ca0d5"
+         id="stop10" />
+      <stop
+         offset="1"
+         stop-color="#0d3e65"
+         id="stop11" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g18"
+     transform="translate(-233.98817,-995.84817)">
+    <g
+       id="g17">
+      <path
+         class="cls-6"
+         d="m 270.08,1595.23 c -94.82,-216.27 3.63,-468.47 219.91,-563.29 216.27,-94.82 468.47,3.63 563.29,219.91 94.82,216.27 -3.63,468.47 -219.91,563.29 -216.27,94.82 -468.47,-3.63 -563.29,-219.91 z"
+         id="path12" />
+      <path
+         class="cls-3"
+         d="m 810.24,1296.53 v 58.8 c 0,45.47 -38.41,83.89 -82.32,83.89 H 595.43 c -36.06,0 -65.85,30.58 -65.85,66.64 v 125.44 c 0,36.06 31.36,57.23 65.85,67.42 41.55,12.54 82.32,14.9 132.49,0 32.93,-10.19 65.85,-29.01 65.85,-67.42 v -50.17 H 662.06 v -16.46 h 197.56 c 39.2,0 53.31,-27.44 66.64,-66.64 13.33,-41.55 13.33,-81.53 0,-134.84 -9.41,-37.63 -27.44,-66.64 -66.64,-66.64 h -49.39 z"
+         id="path13"
+         style="fill:url(#Degradado_sin_nombre_3)" />
+      <path
+         class="cls-8"
+         d="m 658.94,1154.63 c -22.74,0.78 -44.69,3.14 -63.5,6.27 -55.66,9.41 -65.85,29.79 -65.85,68.21 v 50.17 h 132.49 v 17.25 H 480.2 c -38.41,0 -72.13,23.52 -83.1,66.64 -11.76,50.96 -12.54,82.32 0,134.84 9.41,38.41 32.14,66.64 70.56,66.64 h 45.47 v -61.15 c 0,-43.12 37.63,-80.75 82.32,-80.75 h 132.49 c 36.85,0 65.85,-30.58 65.85,-67.42 v -126.22 c 0,-36.06 -29.79,-62.72 -65.85,-68.21 -22.74,-3.92 -46.25,-6.27 -68.99,-6.27 z"
+         id="path14"
+         style="fill:url(#Degradado_sin_nombre_2)" />
+      <path
+         class="cls-1"
+         d="m 661.29,1023.71 -12.54,39.98 h -42.33 l 34.5,25.09 -12.54,39.2 32.93,-24.3 33.71,24.3 -12.54,-39.2 33.71,-25.09 h -41.55 l -13.33,-39.98 z m -173.26,47.04 -13.33,39.98 h -41.55 l 33.71,24.3 -12.54,39.98 33.71,-25.09 33.71,25.09 -13.33,-39.98 34.5,-24.3 h -42.33 l -12.54,-39.98 z m 347.3,0 -12.54,39.98 h -42.33 l 34.5,24.3 -12.54,39.98 32.93,-25.09 33.71,25.09 -12.54,-39.98 33.71,-24.3 h -41.55 l -13.33,-39.98 z m -474.3,127 -13.33,39.98 h -41.55 l 33.71,25.09 -12.54,39.2 33.71,-24.3 32.93,24.3 -12.54,-39.2 34.5,-25.09 h -42.33 l -12.54,-39.98 z m -47.04,174.04 -12.54,39.98 h -42.33 l 34.5,24.3 -13.33,39.98 33.71,-25.09 33.71,25.09 -12.54,-39.98 33.71,-24.3 H 327.33 L 314,1371.79 Z m 47.04,174.05 -13.33,39.98 h -41.55 l 33.71,24.3 -12.54,39.98 33.71,-25.09 32.93,25.09 -12.54,-39.98 34.5,-24.3 h -42.33 l -12.54,-39.98 z"
+         id="path15" />
+      <path
+         class="cls-4"
+         d="m 962.34,1197.75 -12.54,39.98 h -42.33 l 34.5,24.3 -13.33,39.98 33.71,-25.09 33.71,25.09 -12.54,-39.98 33.71,-24.3 h -41.55 l -13.33,-39.98 z m 46.25,173.26 -12.54,39.98 h -42.33 l 34.5,24.3 -13.33,39.98 33.71,-24.3 33.71,24.3 -12.54,-39.98 33.71,-24.3 h -42.33 l -12.54,-39.98 z m -46.25,174.83 -12.54,39.98 h -42.33 l 34.5,24.3 -13.33,39.98 33.71,-25.09 33.71,25.09 -12.54,-39.98 33.71,-24.3 h -41.55 l -13.33,-39.98 z m -474.31,127 -12.54,39.98 h -42.33 l 34.5,24.3 -13.33,39.98 33.71,-24.3 33.71,24.3 -12.54,-39.98 33.71,-24.3 h -41.55 l -13.33,-39.98 z m 347.3,0 -13.33,39.98 h -41.55 l 33.71,24.3 -12.54,39.98 33.71,-24.3 33.71,24.3 -13.33,-39.98 34.5,-24.3 h -42.33 l -12.54,-39.98 z m -174.04,46.26 -12.54,39.98 h -42.33 l 34.5,24.3 -12.54,39.98 32.93,-24.3 33.71,24.3 -12.54,-39.98 33.71,-24.3 h -41.55 l -13.33,-39.98 z"
+         id="path16" />
+      <path
+         class="cls-7"
+         d="m 586.81,1195.4 c 14.11,0 25.09,11.76 25.09,25.09 0,14.9 -10.98,25.09 -25.09,25.09 -12.54,0 -24.3,-10.19 -24.3,-25.09 0,-13.33 11.76,-25.09 24.3,-25.09 z m 149.74,419.43 c 13.33,0 24.3,10.98 24.3,25.09 0,14.11 -10.98,25.09 -24.3,25.09 -13.32,0 -25.09,-11.23 -25.09,-25.09 0,-13.86 11.23,-25.09 25.09,-25.09 z"
+         id="path17" />
+    </g>
+  </g>
+  <g
+     id="g25"
+     transform="translate(-233.98817,-995.84817)">
+    <line
+       class="cls-9"
+       y1="88.489998"
+       x2="63.709999"
+       y2="88.489998"
+       id="line18"
+       x1="0" />
+    <line
+       class="cls-9"
+       x1="88.239998"
+       y1="63.759998"
+       x2="88.239998"
+       y2="0.050000001"
+       id="line19" />
+    <line
+       class="cls-9"
+       x1="88.470001"
+       y1="2848.73"
+       x2="88.470001"
+       y2="2785.02"
+       id="line20" />
+    <line
+       class="cls-9"
+       x1="63.740002"
+       y1="2760.8799"
+       x2="0.029999999"
+       y2="2760.8799"
+       id="line21" />
+    <line
+       class="cls-9"
+       x1="2731.8999"
+       y1="2848.73"
+       x2="2731.8999"
+       y2="2785.02"
+       id="line22" />
+    <line
+       class="cls-9"
+       x1="2756.6299"
+       y1="2760.8799"
+       x2="2820.3401"
+       y2="2760.8799"
+       id="line23" />
+    <line
+       class="cls-9"
+       x1="2820.3401"
+       y1="88.440002"
+       x2="2756.6299"
+       y2="88.440002"
+       id="line24" />
+    <line
+       class="cls-9"
+       x1="2732.1001"
+       y1="63.709999"
+       x2="2732.1001"
+       id="line25"
+       y2="0" />
+  </g>
+</svg>

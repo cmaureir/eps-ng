@@ -1,0 +1,36 @@
+---
+title: Welcome to the EuroPython Society
+description: Resources and documentation.
+template: splash
+hero:
+  tagline: Resources and documentation of the organization.
+  image:
+    file: ../../assets/eps_logo.svg
+  actions:
+    - text: About the Society
+      link: /about/society
+      icon: right-arrow
+      variant: primary
+    - text: Go to EuroPython 2024
+      link: https://ep2024.europython.eu
+      icon: external
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Next steps
+
+<CardGrid stagger>
+	<Card title="Blog" icon="pencil">
+		Check the [latest news](/) from the EPS.
+	</Card>
+	<Card title="Grants" icon="add-document">
+		Get [support and help](/about/grants) from the EPS.
+	</Card>
+	<Card title="Conference organization" icon="setting">
+		Learn [the details](/conference/organizing) of the EuroPython Conference organization.
+	</Card>
+	<Card title="Resources" icon="open-book">
+		Learn more about the processes in the EPS.
+	</Card>
+</CardGrid>
